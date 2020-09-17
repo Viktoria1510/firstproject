@@ -1,0 +1,32 @@
+#first {
+  font-style: oblique;
+  color: red;
+  text-align: center;
+  padding: 5px;
+  font-size: 38px;
+}
+#second {
+  color: black;
+  text-align: left;
+  font-size: 20px;
+  background-color: yellow;
+}
+#third {
+  background-color: yellow;
+  text-align: left;
+  font-size: 20px;
+}
+#fourth {
+  font-size: 20px;
+  background-color: yellow;
+}
+#fifth {
+  font-size: 20px;
+  background-color: yellow;
+}
+#sixth {
+  text-align: center;
+  color: red;
+  font-style: oblique;
+  font-size: 35px;
+}
